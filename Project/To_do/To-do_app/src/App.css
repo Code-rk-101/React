@@ -1,0 +1,27 @@
+.heading
+{
+  font-weight: 650;
+}
+
+input
+{
+  width: 100%;
+}
+
+.align
+{
+  text-align: left;
+  padding: 10px;
+}
+
+.My_btn
+{
+  width: 80px;
+}
+
+.outer
+{
+  margin: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+}

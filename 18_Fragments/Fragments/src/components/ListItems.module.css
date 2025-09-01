@@ -1,0 +1,10 @@
+.btns{
+ margin: 5px;
+ border-radius: 5px;  
+ /* border: 1px solid black;  */
+}
+.btns:hover
+{
+    background-color: #000;
+    color: white;
+}
