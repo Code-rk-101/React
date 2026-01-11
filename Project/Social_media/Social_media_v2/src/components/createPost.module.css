@@ -1,0 +1,36 @@
+.imgUp
+{
+    width: 40vw;
+    min-width: 300px;
+    height: 350px;
+    min-height: 350px;
+    background-color: rgba(49, 50, 50, 0.86);
+
+    border-radius: 10px;
+    margin: 10px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.inpData
+{
+    margin: 5px;
+}
+.submitBtn
+{
+    display: flex;
+    align-items: space-between;
+}
+.create
+{
+    margin-right: 5px;
+    width: 100%;
+}
+.cancel
+{
+    margin-left: 5px;
+    width: 100%;
+}

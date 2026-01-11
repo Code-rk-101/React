@@ -1,0 +1,43 @@
+.cards{
+    margin: 10px;
+    padding: 10px;
+    
+    
+}
+
+.cardImgTop{
+    border-radius: 8px;
+}
+
+.reaction
+{
+    display: flex;
+    width: 40%;
+    height: 50px;
+    justify-content: space-between;
+}
+
+.icon 
+{
+    width: 30px;
+    height: 100px;
+
+    font-weight: bolder;
+}
+
+.edits
+{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+
+.edit_btn
+{
+    margin: 10px;
+}
+
+.anc
+{
+    text-decoration: none;
+}
